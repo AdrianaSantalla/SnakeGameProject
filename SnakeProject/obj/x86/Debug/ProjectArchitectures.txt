@@ -1,0 +1,1 @@
+F:\EPITA International Master - Software Engineering\.Net & C#\Visual Studio Projects\SnakeProject\SnakeProject\SnakeProject.csproj;x86

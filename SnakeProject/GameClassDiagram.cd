@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SnakeProject.Scripts.GameCore.Configuration" Collapsed="true">
+    <Position X="2.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAEAAAAAAAEAEAAAAAADAQBAAQAACCACAEJA=</HashCode>
+      <FileName>Scripts\GameCore\Configuration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeProject.Scripts.GameCore.Manager.FoodManager" Collapsed="true">
+    <Position X="4.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAEAAEAQAAAQBAAAAAQAACAgAAAAI=</HashCode>
+      <FileName>Scripts\GameCore\Manager\FoodManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeProject.Scripts.GameCore.Manager.ImageManager" Collapsed="true">
+    <Position X="6.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scripts\GameCore\Manager\ImageManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeProject.Scripts.GameCore.Manager.InGameManager" Collapsed="true">
+    <Position X="2.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABCAAAAAABAAgACAIAQAAAQBAAAAEQAACAAAAAAA=</HashCode>
+      <FileName>Scripts\GameCore\Manager\InGameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeProject.Scripts.GameCore.Manager.MapManager" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAEAAAAQAAAQBIAAAAQAACAAAAAAA=</HashCode>
+      <FileName>Scripts\GameCore\Manager\MapManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeProject.Scripts.GameCore.Manager.ObjectManager" Collapsed="true">
+    <Position X="2.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAgEQAABQAAAQRAAAAASAADEAAgAAA=</HashCode>
+      <FileName>Scripts\GameCore\Manager\ObjectManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeProject.Scripts.GameCore.Manager.ScreenManager" Collapsed="true">
+    <Position X="4.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAAAACAAAAAgEAAAAgAAAQBEgAAAYEAiAAAARAA=</HashCode>
+      <FileName>Scripts\GameCore\Manager\ScreenManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeProject.Scripts.GameCore.Manager.TouchManager" Collapsed="true">
+    <Position X="4.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAAAQBAAAAAQAACAAAAAAA=</HashCode>
+      <FileName>Scripts\GameCore\Manager\TouchManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeProject.Scripts.GameCore.Model.Box" Collapsed="true">
+    <Position X="2.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEgAAAAAAAAAAAAIAAAAAAACABAAA=</HashCode>
+      <FileName>Scripts\GameCore\Model\Box.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeProject.Scripts.GameCore.Model.Food" Collapsed="true">
+    <Position X="4.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAABAAIBAQAAAQCAAAgAAAAIIAAAACAQCAAAAAAA=</HashCode>
+      <FileName>Scripts\GameCore\Model\Food.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeProject.Scripts.GameCore.Model.Map" Collapsed="true">
+    <Position X="0.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAQAAAAAAEEAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scripts\GameCore\Model\Map.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeProject.Scripts.GameCore.Model.Position" Collapsed="true">
+    <Position X="0.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Scripts\GameCore\Model\Position.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeProject.Scripts.GameCore.Model.Snake" Collapsed="true">
+    <Position X="2.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAIAAMAAgAAABAAABAQAAAAQQAAACAAAAAAA=</HashCode>
+      <FileName>Scripts\GameCore\Model\Snake.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeProject.Scripts.UI.Drawer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAABAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Scripts\UI\Drawer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SnakeProject.Scripts.UI.Object.UIFood" Collapsed="true">
+    <Position X="14.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAABCEAABAAAAAAACAAAAEAI=</HashCode>
+      <FileName>Scripts\UI\Object\UIFood.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeProject.Scripts.UI.Object.UIMap" Collapsed="true">
+    <Position X="0.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FAEAEAAAAAAAAAAAAAAAAAAAAAABAACAAAACAAAAEAA=</HashCode>
+      <FileName>Scripts\UI\Object\UIMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeProject.Scripts.UI.Object.UISnake" Collapsed="true">
+    <Position X="2.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAABAEQABAAAACAACAAAAEAA=</HashCode>
+      <FileName>Scripts\UI\Object\UISnake.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeProject.Scripts.UI.Screens.BaseScreen" Collapsed="true">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAgEAAAAQAAAQAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Scripts\UI\Screens\BaseScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeProject.Scripts.UI.Screens.GameScreen" Collapsed="true">
+    <Position X="2.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAgEAAAAQAAAAAAAAAAAAACAAAgAAA=</HashCode>
+      <FileName>Scripts\UI\Screens\GameScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakeProject.Scripts.UI.Screens.MenuScreen" Collapsed="true">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAgkAAAAQAAAAAAgAAAAAACAAAAAAA=</HashCode>
+      <FileName>Scripts\UI\Screens\MenuScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="SnakeProject.Scripts.UI.IDrawer" Collapsed="true">
+    <Position X="2" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Scripts\UI\IDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="SnakeProject.Scripts.GameCore.Manager.ImageId" Collapsed="true">
+    <Position X="6.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAQAAAIAAAAAAAAAAAAIBAAAAAAAAAAAQAAAAAIAA=</HashCode>
+      <FileName>Scripts\GameCore\Manager\ImageManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SnakeProject.Scripts.GameCore.Model.Direction" Collapsed="true">
+    <Position X="2.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAI=</HashCode>
+      <FileName>Scripts\GameCore\Model\Direction.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SnakeProject.Scripts.GameCore.Model.FoodKind" Collapsed="true">
+    <Position X="4.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAEAgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scripts\GameCore\Model\FoodKind.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SnakeProject.Scripts.UI.Screens.ScreenId" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAABAAAAgAAAAAAAAAAAIAAI=</HashCode>
+      <FileName>Scripts\UI\Screens\BaseScreen.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="SnakeProject.Scripts.GameCore.Model.EventUpdateHandler" Collapsed="true">
+    <Position X="3.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scripts\GameCore\Model\Snake.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

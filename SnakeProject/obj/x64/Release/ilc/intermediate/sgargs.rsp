@@ -1,0 +1,10 @@
+/out:"F:\EPITA International Master - Software Engineering\.Net & C#\Visual Studio Projects\SnakeProject\SnakeProject\obj\x64\Release\ilc\intermediate\SgGenerated\\"
+/int:"F:\EPITA International Master - Software Engineering\.Net & C#\Visual Studio Projects\SnakeProject\SnakeProject\obj\x64\Release\ilc\intermediate\\"
+/ref:"F:\EPITA International Master - Software Engineering\.Net & C#\Visual Studio Projects\SnakeProject\SnakeProject\obj\x64\Release\ilc\intermediate\PreMergeILTransformed\\"
+/ref:"F:\EPITA International Master - Software Engineering\.Net & C#\Visual Studio Projects\SnakeProject\SnakeProject\obj\x64\Release\ilc\intermediate\TransformedSRWR\\"
+/ref:"F:\EPITA International Master - Software Engineering\.Net & C#\Visual Studio Projects\SnakeProject\SnakeProject\obj\x64\Release\ilc\in\\"
+/ref:"F:\EPITA International Master - Software Engineering\.Net & C#\Visual Studio Projects\SnakeProject\SnakeProject\obj\x64\Release\ilc\in\\"
+/ref:"F:\EPITA International Master - Software Engineering\.Net & C#\Visual Studio Projects\SnakeProject\SnakeProject\obj\x64\Release\ilc\in\\"
+/ref:"C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\x64\ilc\lib\Private\\"
+/ref:"F:\EPITA International Master - Software Engineering\.Net & C#\Visual Studio Projects\SnakeProject\SnakeProject\obj\x64\Release\ilc\in\WinMetadata\\"
+/ca:System.Private.CoreLib
